@@ -13,6 +13,7 @@ if(currentDay==0) {
 
 }
 
+
 if(currentDay==1) {
     //monday
 document.getElementById("special_name").innerHTML = "$9 Deluxe Burger & Fries";
